@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@robinsage/rb-editor@^0.2.0",
+        "scope": "@robinsage",
+        "escapedName": "@robinsage%2frb-editor",
+        "name": "@robinsage/rb-editor",
+        "rawSpec": "^0.2.0",
+        "spec": ">=0.2.0 <0.3.0",
+        "type": "range"
+      },
+      "/vagrant"
+    ]
+  ],
+  "_from": "@robinsage/rb-editor@>=0.2.0 <0.3.0",
+  "_id": "@robinsage/rb-editor@0.2.2",
+  "_inCache": true,
+  "_location": "/@robinsage/rb-editor",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/rb-editor-0.2.2.tgz_1495582594430_0.5532455467619002"
+  },
+  "_npmUser": {
+    "name": "robinsage",
+    "email": "dchilds@robinsage.com"
+  },
+  "_npmVersion": "4.1.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@robinsage/rb-editor@^0.2.0",
+    "scope": "@robinsage",
+    "escapedName": "@robinsage%2frb-editor",
+    "name": "@robinsage/rb-editor",
+    "rawSpec": "^0.2.0",
+    "spec": ">=0.2.0 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@robinsage/rb-editor/-/rb-editor-0.2.2.tgz",
+  "_shasum": "a5397c12f048a42ad8e535a5003cc4ee2b5e63b3",
+  "_shrinkwrap": null,
+  "_spec": "@robinsage/rb-editor@^0.2.0",
+  "_where": "/vagrant",
+  "author": {
+    "name": "Robinsage Business Services",
+    "email": "info@robinsage.com"
+  },
+  "dependencies": {
+    "@robinsage/rb-assets": "^0.2.1"
+  },
+  "description": "HTML editor for robinbase",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a5397c12f048a42ad8e535a5003cc4ee2b5e63b3",
+    "tarball": "https://registry.npmjs.org/@robinsage/rb-editor/-/rb-editor-0.2.2.tgz"
+  },
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "robinsage",
+      "email": "dchilds@robinsage.com"
+    }
+  ],
+  "name": "@robinsage/rb-editor",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "version": "0.2.2"
+}
