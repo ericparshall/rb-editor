@@ -50,7 +50,7 @@
     "email": "info@robinsage.com"
   },
   "dependencies": {
-    "@robinsage/rb-assets": "git://github.com/ericparshall/rb-assets.git"
+    "@robinsage/rb-assets": "https://github.com/ericparshall/rb-assets.git"
   },
   "description": "HTML editor for robinbase",
   "devDependencies": {},
